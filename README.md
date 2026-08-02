@@ -24,7 +24,8 @@ This project analyzes unemployment trends in Amsterdam and surrounding areas usi
 
 ## 📈 Dashboard
 
-<img width="561" height="342" alt="afbeelding" src="https://github.com/user-attachments/assets/28dccc48-66af-47f3-9a1f-16bf4fed5047" />
+<img width="553" height="362" alt="afbeelding" src="https://github.com/user-attachments/assets/a184e80e-95cf-4b46-9fe2-3291018f0fce" />
+
 <img width="1348" height="782" alt="afbeelding" src="https://github.com/user-attachments/assets/ddb93f06-3043-4275-b563-0276bbc6027e" />
 
 
